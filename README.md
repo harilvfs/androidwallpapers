@@ -1,4 +1,4 @@
-# 🌟 Collection of Wallpapers for Android Devices
+## 🌟 Collection of Wallpapers for Android Devices
 
 A curated collection of stunning wallpapers to refresh your Android device's look! 🌌✨  
 
@@ -7,27 +7,31 @@ A curated collection of stunning wallpapers to refresh your Android device's loo
 ![Repo Size](https://img.shields.io/github/repo-size/harilvfs/andriodwallpapers?style=for-the-badge)
 
 
-## 📂 What's Inside?
+### 📂 What's Inside?
 
 - High-quality wallpapers for Android devices.  
 - Various categories for different styles and moods.  
 
 
-## 🚀 How to Use
+### 🚀 How to Use
 
-1. Clone the repository: 
-   <pre><code>git clone https://github.com/harilvfs/andriodwallpapers.git</code></pre>
-2. Pick your favorite wallpapers.  
-3. Set them as your Android device's background.  
+- Clone the repository: 
+
+```bash
+git clone https://github.com/harilvfs/andriodwallpapers.git
+```
+
+- Pick your favorite wallpapers.  
+- Set them as your Android device's background.  
 
 
 ## 💡 Contribute
 
 Contributions are welcome!  
 
-1. Fork the repository.  
-2. Add your wallpaper(s).  
-3. Submit a pull request.  
+- Fork the repository.
+-  Add your wallpaper(s).  
+- Submit a pull request.  
 
 ---
 
