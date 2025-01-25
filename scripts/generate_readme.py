@@ -1,22 +1,16 @@
 import os
-from pathlib import Path
 
 WALLPAPER_DIR = "."
 README_FILE = "README.md"
 
 def generate_markdown(images):
-    """Generates Markdown table format for images."""
+    """Generates Markdown for images displayed side by side."""
     rows = []
-    row = []
     for i, img in enumerate(images, start=1):
-        row.append(f"<img src='{img}' alt='img' width='150px'>")
+        rows.append(f"<img src='{img}' alt='img' width='150px' style='margin: 5px;'>")
         if i % 3 == 0:  
-            rows.append("|" + " | ".join(row) + " |")
-            row = []
-    if row:
-        rows.append("|" + " | ".join(row) + " |")
-    separator = "| " + " | ".join(["---"] * 3) + " |"
-    return separator.join(["\n"] + rows)
+            rows.append("<br>")  
+    return "\n".join(rows)
 
 def main():
     images = [
