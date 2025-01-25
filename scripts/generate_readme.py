@@ -9,7 +9,7 @@ def generate_markdown(images):
     row = []
     for i, img in enumerate(images, start=1):
         row.append(f"<img src='{img}' alt='img' width='150px' style='margin: 5px;'>")
-        if i % 3 == 0:  # Add a new row after 3 images
+        if i % 5 == 0:  # Add a new row after 5 images
             rows.append("".join(row))  # Join images in the row without line breaks
             row = []
     if row:  # Add any remaining images
