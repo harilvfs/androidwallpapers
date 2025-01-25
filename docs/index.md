@@ -2,6 +2,7 @@
 
 A curated collection of stunning wallpapers to refresh your Android device's look! 🌌✨  
 
+For a preview, check the repository README [here](https://github.com/harilvfs/andriodwallpapers/blob/main/README.md)
 
 ![Files Count](https://img.shields.io/github/directory-file-count/harilvfs/andriodwallpapers?style=for-the-badge)
 ![Repo Size](https://img.shields.io/github/repo-size/harilvfs/andriodwallpapers?style=for-the-badge)
