@@ -7,6 +7,8 @@ A curated collection of stunning wallpapers to refresh your Android device's loo
 ![Files Count](https://img.shields.io/github/directory-file-count/harilvfs/andriodwallpapers?style=for-the-badge)
 ![Repo Size](https://img.shields.io/github/repo-size/harilvfs/andriodwallpapers?style=for-the-badge)
 
+### 📦 Sources:
+- Reddit, Telegram and Many More.
 
 ### 📂 What's Inside?
 
